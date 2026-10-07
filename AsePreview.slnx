@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AsePreview.vcxproj" Id="82be9228-f1cd-4ff3-b4d5-c339dbce4be7" />
+</Solution>

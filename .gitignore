@@ -1,0 +1,35 @@
+# Build outputs and intermediate files
+/Debug/
+/Release/
+/x64/
+/Win32/
+/AsePreview/
+/tests/_build/
+*.obj
+*.pch
+*.pdb
+*.idb
+*.ilk
+*.iobj
+*.ipdb
+*.dll
+*.exe
+*.lib
+*.exp
+*.tlog
+
+# Local IDE settings
+/.vs/
+*.user
+*.suo
+
+# Local backups, verification logs, and machine-specific registry export
+/_maintenance/
+/register.reg
+
+# Credentials and signing keys
+.env
+.env.*
+*.pfx
+*.p12
+*.key
