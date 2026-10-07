@@ -2,6 +2,8 @@
 
 AsePreview is a native Shell preview handler for ASE color palettes.
 
+![ASE palette in a dark Shell preview pane with the Copy as HEX and Copy as RGB context menu](docs/images/ase-palette-preview-dark-context-menu.png)
+
 ## Features
 
 - A grid of color swatches with names and group headings.
